@@ -31,42 +31,42 @@ I work on real-world datasets using Python, SQL, Excel, and Power BI to solve bu
 <p align="left">
 
   <span style="display:inline-block; align-items:center; margin-right:30px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/><br>
     <b style="margin-left:8px;">Python</b>
   </span>
 
   <span style="display:inline-block; align-items:center; margin-right:30px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70"/><br>
     <b style="margin-left:8px;">NumPy</b>
   </span>
 
   <span style="display:inline-block; align-items:center; margin-right:30px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70"/><br>
     <b style="margin-left:8px;">Pandas</b>
   </span>
 
-  <span style="display:inline-block; align-items:center; margin-right:30px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="70"/>
+  <span style="display:inline-block; align-items:center; margin-right:30px;"><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="70"/><br>
     <b style="margin-left:8px;">Advanced Excel</b>
   </span>
 
   <span style="display:inline-block; align-items:center; margin-right:30px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70"/><br>
     <b style="margin-left:8px;">Power BI</b>
   </span>
 
   <span style="display:inline-block; align-items:center; margin-right:30px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="70"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="70"/><br>
     <b style="margin-left:8px;">Tableau</b>
   </span>
 
   <span style="display:inline-block; align-items:center; margin-right:30px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="70"/><br>
     <b style="margin-left:8px;">Matplotlib</b>
   </span>
 
   <span style="display:inline-block; align-items:center;">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70"/><br>
     <b style="margin-left:8px;">Seaborn</b>
   </span>
 
