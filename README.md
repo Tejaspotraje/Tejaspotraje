@@ -28,51 +28,42 @@ I work on real-world datasets using Python, SQL, Excel, and Power BI to solve bu
 
 # Tech Known and Work With
 
-# Tech Known and Work With
-
-<div style="display:flex; flex-wrap:wrap; gap:30px;">
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/><br>
-    <b>Python</b>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70"/><br>
-    <b>NumPy</b>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70"/><br>
-    <b>Pandas</b>
-  </div>
-
-  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="70"/><br>
-    <b>Advanced Excel</b>
-  </div>
-
-  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70"/><br>
-    <b>Power BI</b>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="70"/><br>
-    <b>Tableau</b>
-  </div>
-
-  <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="70"/><br>
-    <b>Matplotlib</b>
-  </div>
-
-  <div align="center">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70"/><br>
-    <b>Seaborn</b>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/><br>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70"/><br>
+      <b>NumPy</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70"/><br>
+      <b>Pandas</b>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="70"/><br>
+      <b>Advanced Excel</b>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70"/><br>
+      <b>Power BI</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="70"/><br>
+      <b>Tableau</b>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="70"/><br>
+      <b>Matplotlib</b>
+    </td>
+    <td align="center">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70"/><br>
+      <b>Seaborn</b>
+    </td>
+  </tr>
+</table>
 
 
 
