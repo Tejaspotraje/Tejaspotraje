@@ -8,7 +8,6 @@ I work on real-world datasets using Python, SQL, Excel, and Power BI to solve bu
 4) Perform exploratory data analysis (EDA) and basic statistical analysis
 
 # Socials
-
 <p align="left">
   <a href="https://instagram.com/tejaspotraje_" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"
@@ -69,8 +68,6 @@ I work on real-world datasets using Python, SQL, Excel, and Power BI to solve bu
 
 # Projects
 
-## 📂 Projects
-
 ### 📊 Sales Performance Analysis
 <p>
   <img src="https://user-images.githubusercontent.com/your-image-id/sales-dashboard.png" width="600"/>
@@ -101,6 +98,3 @@ I work on real-world datasets using Python, SQL, Excel, and Power BI to solve bu
 - Analyzed customer purchasing behavior and product performance  
 - Created KPI dashboards and visual insights  
 - **Tools:** Python, Tableau, Excel
-
-
-
