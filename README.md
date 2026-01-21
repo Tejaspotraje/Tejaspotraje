@@ -75,7 +75,7 @@ I work on real-world datasets using **Python, SQL, Excel, and Power BI** to solv
 
 ### Quality crisies the surges of Adulteration.
 <p>
-  <img src="Aduteration.png" width="600"/>
+  <img src="Aduteration.png" width="800"/>
 </p>
 
 - Analyzed sales data to identify alduration trends, top aldurated productes and its state, and penalties imposed.  
@@ -87,7 +87,7 @@ I work on real-world datasets using **Python, SQL, Excel, and Power BI** to solv
 
 ### Indian Petroleum Stocks Analysis
 <p>
-  <img src="Indian Petroleum Market.png" width="600"/>
+  <img src="Indian Petroleum Market.png" width="800"/>
 </p>
 
 - Evaluated the Indian Petroleum Stocks in Private and PSU sectors. 
