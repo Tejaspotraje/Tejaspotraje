@@ -28,49 +28,52 @@ I work on real-world datasets using Python, SQL, Excel, and Power BI to solve bu
 
 # Tech Known and Work With
 
-<p align="left">
+# Tech Known and Work With
 
-  <span style="display:inline-block; text-align:center; margin-right:30px;">
+<div style="display:flex; flex-wrap:wrap; gap:30px;">
+
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/><br>
     <b>Python</b>
-  </span>
+  </div>
 
-  <span style="display:inline-block; text-align:center; margin-right:30px;">
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70"/><br>
     <b>NumPy</b>
-  </span>
+  </div>
 
-  <span style="display:inline-block; text-align:center; margin-right:30px;">
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70"/><br>
     <b>Pandas</b>
-  </span>
+  </div>
 
-  <span style="display:inline-block; text-align:center; margin-right:30px;">
+  <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="70"/><br>
     <b>Advanced Excel</b>
-  </span>
+  </div>
 
-  <span style="display:inline-block; text-align:center; margin-right:30px;">
+  <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70"/><br>
     <b>Power BI</b>
-  </span>
+  </div>
 
-  <span style="display:inline-block; text-align:center; margin-right:30px;">
+  <div align="center">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="70"/><br>
     <b>Tableau</b>
-  </span>
+  </div>
 
-  <span style="display:inline-block; text-align:center; margin-right:30px;">
+  <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="70"/><br>
     <b>Matplotlib</b>
-  </span>
+  </div>
 
-  <span style="display:inline-block; text-align:center;">
+  <div align="center">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70"/><br>
     <b>Seaborn</b>
-  </span>
+  </div>
 
-</p>
+</div>
+
 
 
 # Projects
