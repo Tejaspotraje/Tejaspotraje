@@ -67,7 +67,13 @@ I work on real-world datasets using **Python, SQL, Excel, and Power BI** to solv
     <td align="center">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70"/><br>
       <b>Seaborn</b>
+     <td align="center">
+      <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="70"/><br>
+      <b>MySQL</b>
     </td>
+     <td align="center">
+      <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="70"/><br>
+      <b>PostgreSQL></b>
   </tr>
 </table>
 
